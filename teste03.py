@@ -28,7 +28,7 @@ print(f"Menor valor de faturamento é: {menor_valor:.2f}")
 print(f"Número de dias com faturamento maior que a média é: {dias_acima_da_media}")
 
 
-#Executando o códico consultando o arquivo "dados.json"
+#Executando o código consultando o arquivo "dados.json"
 #Teremos que o maior valor de faturamento será: 48924.24
 #Menor valor de faturamento será: 373.78
 #E o número de dias com faturamento maior que a média será: 10
